@@ -11,6 +11,6 @@
 
 - box, cornerbox, snapline, skeleton
 
- ### 🧾 Prerequisites
+ ### 🧾 Update
  
 - you just need to update offsets.h
